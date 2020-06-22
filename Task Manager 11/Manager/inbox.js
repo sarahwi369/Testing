@@ -23,6 +23,6 @@ function create() {
 }
 
 function send() {
-	alert("message sent");
+	alert("Message sent");
 	window.location.href="./inbox.html"
 }
